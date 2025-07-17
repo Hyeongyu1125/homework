@@ -100,7 +100,7 @@ export default function CardGame() {
       </div>
 
       <p className="text-left text-sm text-gray-800 whitespace-pre-line border-t pt-2">
-        카드: 1~20 숫자 카드. 중복 없음.{"\n"}
+        카드: 1~20 숫자 카드, 중복 없음.{"\n"}
         시작을 누르면 PC는 미리 2개 번호를 부여받음.{"\n"}
         화면엔 5장 출력. 2장을 선택 후 선택 버튼 클릭.{"\n"}
         사용자 카드 합 vs PC 카드 합 비교 → 승자 결정.{"\n"}
